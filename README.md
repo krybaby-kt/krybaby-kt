@@ -1,8 +1,12 @@
 # Hi, I'm Egor 👋
 
-## About Me
+## Backend Developer | Building Fast, Scalable & Reliable Solutions ⚡
 
-Backend Developer specializing in Python and high-load REST APIs. 2.5+ years of experience building scalable services with async architectures. Currently learning RabbitMQ.
+Backend developer who loves turning complex problems into elegant solutions. Started my journey at 19 and spent the last 2.5 years building high-load services that handle thousands of requests per second. 
+
+I believe good code should be fast, reliable, and maintainable. Passionate about learning new technologies and always eager to explore modern tools and best practices. Love diving into documentation and experimenting with different approaches to solve problems.
+
+Always open to collaboration, interesting projects, and meaningful conversations about tech!
 
 ## Skills
 
