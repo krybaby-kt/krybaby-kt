@@ -54,6 +54,6 @@ Always open to collaboration, interesting projects, and meaningful conversations
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krybaby-kt&color=blue&style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats-omega-six-54.vercel.app/api?username=krybaby-kt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-omega-six-54.vercel.app/api?username=krybaby-kt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-omega-six-54.vercel.app/api/top-langs/?username=krybaby-kt&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats-omega-six-54.vercel.app/api/top-langs/?username=krybaby-kt&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true)
