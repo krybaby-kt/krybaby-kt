@@ -2,7 +2,7 @@
 
 ## Backend Developer | Building Fast, Scalable & Reliable Solutions ⚡
 
-Backend developer who loves turning complex problems into elegant solutions. Started my journey at 18 and spent the last 2.5 years building high-load services that handle thousands of requests per second. 
+Backend developer who loves turning complex problems into elegant solutions. Started my journey at 18 and spent the last 3 years building high-load services that handle thousands of requests per second. 
 
 I believe good code should be fast, reliable, and maintainable. Passionate about learning new technologies and always eager to explore modern tools and best practices. Love diving into documentation and experimenting with different approaches to solve problems.
 
