@@ -32,6 +32,7 @@ Always open to collaboration, interesting projects, and meaningful conversations
 
 ### Architectural Styles
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Monolithic](https://img.shields.io/badge/Monolithic-4B0082?style=for-the-badge&logo=python&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
