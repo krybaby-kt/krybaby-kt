@@ -87,6 +87,7 @@ Always open to collaboration, interesting projects, and meaningful conversations
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![pip](https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=python&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=python&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
 ![Cookiecutter](https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=python&logoColor=white)
