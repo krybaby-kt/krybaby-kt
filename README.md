@@ -2,7 +2,7 @@
 
 ## Backend Developer | Building Fast, Scalable & Reliable Solutions ⚡
 
-Backend developer who loves turning complex problems into elegant solutions. Started my journey at 18 and spent the last 4 years building high-load services that handle thousands of requests per second. 
+Backend developer who loves turning complex problems into elegant solutions.
 
 I believe good code should be fast, reliable, and maintainable. Passionate about learning new technologies and always eager to explore modern tools and best practices. Love diving into documentation and experimenting with different approaches to solve problems.
 
@@ -16,13 +16,20 @@ Always open to collaboration, interesting projects, and meaningful conversations
 ## Skills
 
 ### Frameworks
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Litestar](https://img.shields.io/badge/Litestar-202235?style=for-the-badge&logo=litestar&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Telebot](https://img.shields.io/badge/Telebot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ### Core Technologies
+
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=alembic&logoColor=white)
@@ -33,32 +40,47 @@ Always open to collaboration, interesting projects, and meaningful conversations
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### Architectural Styles
+
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Monolithic](https://img.shields.io/badge/Monolithic-4B0082?style=for-the-badge&logo=python&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0066CC?style=for-the-badge&logo=python&logoColor=white)
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal_Architecture-FFB000?style=for-the-badge&logo=python&logoColor=black)
 ![MVC](https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### HTTP Clients
+
 ![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)
 ![HTTPX](https://img.shields.io/badge/HTTPX-013220?style=for-the-badge&logo=python&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![curl_cffi](https://img.shields.io/badge/curl__cffi-073551?style=for-the-badge&logo=curl&logoColor=white)
 
 ### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+
+### Message Brokers
+
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### Testing & Quality
+
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=for-the-badge&logo=python&logoColor=white)
 ![black](https://img.shields.io/badge/black-000000?style=for-the-badge&logo=python&logoColor=white)
+![ruff](https://img.shields.io/badge/ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
 
 ## Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=gnu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -66,19 +88,18 @@ Always open to collaboration, interesting projects, and meaningful conversations
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=python&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
+![Cookiecutter](https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=python&logoColor=white)
+![Dishka](https://img.shields.io/badge/Dishka-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Currently Learning
 
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
 ## Socials
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krybaby.tears@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krybaby)
+[![Telegram](https://img.shields.io/badge/Telegram-@krybabyirl-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krybabyirl)
 
 ## Badges
 
